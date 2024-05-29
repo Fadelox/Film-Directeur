@@ -1,0 +1,1 @@
+The Film-Directeur application, developed with Java and the Spring Boot framework, efficiently handles film and director data. Powered by XAMPP as the server backend, users can seamlessly perform CRUD operations—adding, deleting, and editing films associated with directors.
